@@ -1,8 +1,3 @@
 # SupportBank
 
-This repository contains:
-
-* Some sample data for the SupportBank challenge
-* A sample solution
-
-Copyright © 2017 Softwire - All Rights Reserved
+This repository contains a blank console application ready to be used with some sample data for the support bank problem.
